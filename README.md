@@ -21,3 +21,7 @@ set PYTHONPATH=%CD%\src
 python -m tureng_anki --tag anki --top-n 5 --headless
 
 conda install -c conda-forge firefox geckodriver
+```
+
+## Note
+Use responsibly, respect site ToS and add delays.
